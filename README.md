@@ -1,6 +1,5 @@
-# Classements MakaCorp
+# Championnat MakaCorp Rally2
 
-Portail public des championnats MakaCorp.
+Site statique du classement Rally2.
 
-- `rally3/` : ancien championnat Rally3
-- `rally2/` : nouvelle saison Rally2
+Publier sur GitHub Pages en envoyant tous les fichiers de ce dossier a la racine du depot.
